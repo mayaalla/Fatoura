@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795620466837,
+      "tag": "0000_bent_penance",
+      "breakpoints": true
+    }
+  ]
+}
