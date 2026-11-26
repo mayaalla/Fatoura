@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "skills": {
+    "clerk": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk/SKILL.md",
+      "computedHash": "f1d40a6737318e1e9f247d0c15ecb1249afb26341afcdde517e34337723287e6"
+    },
+    "clerk-backend-api": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-backend-api/SKILL.md",
+      "computedHash": "9ee9a2c33cc481b01e89b1b91b4b6d210b207927353d87d6858dc96f39a23527"
+    },
+    "clerk-nextjs-patterns": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-nextjs-patterns/SKILL.md",
+      "computedHash": "5775102acceae0b132c1818a51147623da645880aa27ee2d9e3aa2a6358af357"
+    },
+    "clerk-react-patterns": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-react-patterns/SKILL.md",
+      "computedHash": "773d347defdef5d7a5089b11d1853802db1f8e1f9922cf2c7ee6690eec571319"
+    },
+    "clerk-setup": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-setup/SKILL.md",
+      "computedHash": "cc1735ea082f7fed9a14bae11ed89650e42f5b34d21b05c34f048b67852d064c"
+    },
+    "clerk-tanstack-patterns": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-tanstack-patterns/SKILL.md",
+      "computedHash": "df0b3c20cab497c623feb854abbf3dd3436206b23e997a4428d2c6cfacb7b391"
+    },
+    "clerk-testing": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-testing/SKILL.md",
+      "computedHash": "f1eb34182c114b18d16f66117f8ad0eba9a1ed3c226b984c6a82ff09c8c02fef"
+    },
+    "clerk-webhooks": {
+      "source": "clerk/skills",
+      "commit": "e9a94f271affdfe9325da63d3267ff29d543fd7f",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-webhooks/SKILL.md",
+      "computedHash": "b50cef6155462607f633da76c99f761a80eeae52819c6ba0b4ce0293561f165f"
+    },
+    "next-bundle-optimizer": {
+      "source": "vercel/next.js",
+      "commit": "3186a8b97446f84998942ce6d58a4e0c73a440f1",
+      "sourceType": "github",
+      "skillPath": "skills/next-bundle-optimizer/SKILL.md",
+      "computedHash": "2a2d38e9ba5476f6eef7a86cc1531801b454fdcd5ee8b96745973e01b5d25397"
+    },
+    "next-cache-components-adoption": {
+      "source": "vercel/next.js",
+      "commit": "3186a8b97446f84998942ce6d58a4e0c73a440f1",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-adoption/SKILL.md",
+      "computedHash": "004440bc8cfbf30291fc9564e14ade7874c886189e2df3a4bcbb7c937ef58b07"
+    },
+    "next-cache-components-optimizer": {
+      "source": "vercel/next.js",
+      "commit": "3186a8b97446f84998942ce6d58a4e0c73a440f1",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-optimizer/SKILL.md",
+      "computedHash": "97a5b125e85aff3ebe90626b887cf016f4de33c01b479a42758bd57fe233db4c"
+    },
+    "next-dev-loop": {
+      "source": "vercel/next.js",
+      "commit": "3186a8b97446f84998942ce6d58a4e0c73a440f1",
+      "sourceType": "github",
+      "skillPath": "skills/next-dev-loop/SKILL.md",
+      "computedHash": "78ebafaabaa8fd170da34957943f5845436f66c04daf85a93fc759f38a50a4ca"
+    },
+    "next-partial-prefetching-adoption": {
+      "source": "vercel/next.js",
+      "commit": "3186a8b97446f84998942ce6d58a4e0c73a440f1",
+      "sourceType": "github",
+      "skillPath": "skills/next-partial-prefetching-adoption/SKILL.md",
+      "computedHash": "846465406dbe131257bfeba359e9966973a63c19b732cc5551f630851a9435cc"
+    },
+    "next-partial-prefetching-optimizer": {
+      "source": "vercel/next.js",
+      "commit": "3186a8b97446f84998942ce6d58a4e0c73a440f1",
+      "sourceType": "github",
+      "skillPath": "skills/next-partial-prefetching-optimizer/SKILL.md",
+      "computedHash": "c14905fe96b7cae2af2d359edbfa6f07cc1fae5ff94709ed58092834677dc24d"
+    }
+  }
+}
