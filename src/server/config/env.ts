@@ -10,8 +10,6 @@ import { z } from "zod";
 // CLERK_SECRET_KEY=sk_...
 // UPSTASH_REDIS_REST_URL=redis://...
 
-// import here all env var and export them as a single object to be used in the app also use zod to validate them
-// create strect rules and validation for each env var and throw an error if any of them is missing or invalid
 const envSchema = z.object({
     DATABASE_URL: z.string().url(),
     RESEND_API: z.string().min(1),
